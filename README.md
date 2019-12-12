@@ -1,1 +1,1 @@
-# GR5242
+# Generative Adversarial Network
